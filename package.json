@@ -1,0 +1,24 @@
+{
+  "name": "rn-image-placeholder",
+  "version": "1.0.1",
+  "description": "react native image placeholder with loding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvinfosys/rn-image-placeholder.git"
+  },
+  "keywords": [
+    "react native image placeholder",
+    "react native image loader",
+    "react native image network"
+  ],
+  "author": "DV Infosys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvinfosys/rn-image-placeholder/issues"
+  },
+  "homepage": "https://github.com/dvinfosys/rn-image-placeholder#readme"
+}
